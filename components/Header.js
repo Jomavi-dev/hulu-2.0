@@ -15,7 +15,7 @@ function Header() {
       </nav>
       <Image
         className="object-contain h-fit"
-        src="/hulu-white.png" width={140} height={70}
+        src="/hulu-white.png" width={140} height={70} alt="logo"
       />
     </header>
   )
